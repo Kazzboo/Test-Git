@@ -12,3 +12,11 @@
 - git log
 # Pour suis les modification dans l'espace de travail et vérifie si les fichier du dépot local sont à jour.
 - git status
+# Pour créer une branche :
+- git branch "nom de la branche"
+# Pour changer de branche :
+- git checkout "nom de la branche"
+# Pour synchroniser deux branches :
+- git merge "nom de la branche avec la quelle on veux ce synchroniser"
+# Pour fusionner deux branches :
+- git rebase "nom de la branche avec la quelle fusionner"
