@@ -1,0 +1,10 @@
+# pour initialiser git dans un repertoire :
+- git init
+# Pour Ajouter un fichier dans l'index et préparer le commit du dépot local :
+- git add
+# Pour pour déposer dans le dépot local :
+- git commit
+# Pour déposer dans le dépot commun :
+- git push
+# Pour récupérer du dépot commun : 
+- git pull
