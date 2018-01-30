@@ -8,3 +8,7 @@
 - git push
 # Pour récupérer du dépot commun : 
 - git pull
+# Pour voir l'historique des commit :
+- git log
+# Pour suis les modification dans l'espace de travail et vérifie si les fichier du dépot local sont à jour.
+- git status
